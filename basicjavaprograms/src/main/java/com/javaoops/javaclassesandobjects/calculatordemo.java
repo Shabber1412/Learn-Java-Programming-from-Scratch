@@ -24,7 +24,7 @@ class Calculator{
 
 }
 
-public class calculatordemo {
+public class Calculatordemo {
     public static void main(String[] args) {
         int num1 = 10;
         int num2 = 20;

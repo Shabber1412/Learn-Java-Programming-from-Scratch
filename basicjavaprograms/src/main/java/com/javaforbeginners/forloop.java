@@ -1,6 +1,6 @@
 package com.javaforbeginners;
 
-public class forloop {
+public class ForLoop {
     public static void main(String[] args) {
         for (int i =1; i <=10; i++) { // Increment
             System.out.println("Count: "+i); // This For Loop print Count of (1-10) numbers

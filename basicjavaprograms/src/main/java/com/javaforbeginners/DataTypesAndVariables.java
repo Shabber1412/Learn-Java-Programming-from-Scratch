@@ -1,6 +1,6 @@
 package com.javaforbeginners;
 
-public class Datatypeandvariables {
+public class DataTypesAndVariables {
     /*    int age = 26;
     String name = "Shabber"; //Instance Variable
     double salary = 53000.00 ;

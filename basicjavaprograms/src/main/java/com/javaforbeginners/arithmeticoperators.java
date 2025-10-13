@@ -1,6 +1,6 @@
 package com.javaforbeginners;
 
-public class arithmeticoperators {
+public class ArithmeticOperators {
     public static void main(String[] args) {
     int number1 = 754;
     int number2 = 456;

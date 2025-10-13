@@ -16,7 +16,7 @@ class Computer{
     }
 }
 
-public class computerdemo {
+public class ComputerDemo {
 
     public static void main(String[] args) {
          

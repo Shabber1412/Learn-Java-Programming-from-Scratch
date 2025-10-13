@@ -1,6 +1,6 @@
 package com.javaforbeginners;
 
-public class whileloop {
+public class WhileLoop {
     public static void main(String[] args) {
       
         int i = 1;
